@@ -1,0 +1,68 @@
+body{
+  font-family: Arial, Verdana, sans-serif;
+  color: #000000;
+  padding: 10px;
+  background-image: url('../imagens/fundo.png');
+}
+
+.estilo1{
+
+  color: rgb(0,0,255);
+}
+
+.bloco{
+  font-family: sans-serif;
+  color: black;
+  background-color: #efefef;
+  width: 20%;
+  text-align: center;
+  margin: auto;
+  border-radius: 25px;
+  opacity: 0.6;
+
+}
+
+div.estilo1{
+  color: rgb(255,0,0);
+}
+
+.barra {
+font-family: sans-serif;
+color: black;
+border: 3px solid gray;
+background-color: #efefef;
+width: 20%;
+text-align: center;
+margin: auto;
+border-radius: 25px;
+}
+
+.bar {
+  display: block;
+  margin: auto;
+  padding: inherit;
+}
+
+.banner {
+font-family: sans-serif;
+color: black;
+
+border: 10px solid gray;
+background-color: #efefef;
+padding: inherit;
+text-align: center;
+
+}
+
+.manchetes{
+  border-radius: 25px;
+  border: 3px solid gray;
+
+
+}
+
+.manchetes2{
+  border-radius: 25px;
+
+  text-align: center;
+}

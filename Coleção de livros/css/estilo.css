@@ -1,0 +1,56 @@
+body{
+  font-family: Arial, Verdana, sans-serif;
+  color: #000000;
+
+  background-image: url('../imagens/fundo.jpg');
+  background-attachment: fixed;
+
+}
+
+h1.cabecalho {
+display: block;
+border-radius: 25px;
+margin: auto;
+width: 20%;
+border: 3px solid gray;
+padding: 10px;
+background-color: #ffffff;
+text-align: center;
+
+}
+
+table.ficcao{
+border-radius: 25px;
+background-color: #ffffff;
+opacity: 1;
+border: 10px solid gray;
+}
+
+table.hp{
+border-radius: 25px;
+background-color: #ffffff;
+opacity: 1;
+border: 10px solid gray;
+}
+
+table.terror{
+border-radius: 25px;
+background-color: #ffffff;
+opacity: 1;
+border: 10px solid gray;
+}
+
+table.romance{
+border-radius: 25px;
+background-color: #ffffff;
+opacity: 1;
+border: 10px solid gray;
+}
+
+table.sign{
+border-radius: 40px;
+font-family: sans-serif;
+background-color: #ffffff;
+opacity: 0.9;
+
+}
